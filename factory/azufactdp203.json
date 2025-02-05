@@ -1,0 +1,9 @@
+{
+	"name": "azufactdp203",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cea22086-9a6b-4c0a-809f-726b14ded295",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
